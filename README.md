@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @xoxo-beth
-- 👀 I’m interested in ...learning how to code
-- 🌱 I’m currently learning ...python and html
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...a mobile app developer
+- 🌱 I’m currently learning ...flutter and dart
+- 💞️ I’m looking to collaborate on ...any app
 - 📫 How to reach me ...instagram (beth.theicon)
 - 😄 Pronouns: ...her/she
-- ⚡ Fun fact: ...i love to bake and draw 
+- ⚡ Fun fact: ...i love to bake and i am a believer
 
 <!---
 xoxo-beth/xoxo-beth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
