@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xoxo-beth
 - 👀 I’m interested in ...a mobile app development
 - 🌱 I’m currently learning ...flutter and dart
-- 💞️ I’m looking to collaborate on ...any app
+- 💞️ I’m looking to collaborate on ...any fintech-related app
 - 📫 How to reach me ...linkedin(https://www.linkedin.com/in/anjoolaoluwa-shafa-0b599a393/)
 - 😄 Pronouns: ...her/she
 - ⚡ Fun fact: ...i love to bake and i am a believer
